@@ -1,0 +1,17 @@
+package es.pildoras.pruebaannotations;
+
+public class ComercialExperimentado implements Empleados {
+
+	@Override
+	public String getTareas() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String Informes() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
